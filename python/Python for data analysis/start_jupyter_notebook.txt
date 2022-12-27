@@ -1,0 +1,3 @@
+jupyter notebook
+http://localhost:8888/?token=36903b20fcee695881a91f5d1e109538525da90b66ccf92c
+or http://127.0.0.1:8888/?token=36903b20fcee695881a91f5d1e109538525da90b66ccf92
